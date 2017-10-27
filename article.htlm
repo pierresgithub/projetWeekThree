@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="">
+</head>
+  <body>
+  <header>
+    <svg width="120px" height="45px" viewBox="0 0 120 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id=logo>
+        <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+        <desc>Created with Sketch.</desc>
+        <defs>
+            <rect id="path-1" x="0" y="0" width="120" height="45"></rect>
+        </defs>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Rectangle">
+                <use fill-opacity="0.731431159" fill="#822E2E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="119" height="44"></rect>
+            </g>
+            <text id="Lovers" font-family="BigCaslon-Medium, Big Caslon" font-size="20" font-weight="400" fill="#FFFFFF">
+                <tspan x="32" y="40">Lovers</tspan>
+            </text>
+            <text id="HUMMUS" font-family="BigCaslon-Medium, Big Caslon" font-size="20" font-weight="400" fill="#FFFFFF">
+                <tspan x="10" y="21">HUMMUS</tspan>
+            </text>
+        </g>
+
+    </svg>
+
+    <a class=navbartext href="homepage.html" class="w3-button w3-bar-item">home</a>
+    <a class=navbartext href="reciepes.html" class="w3-button w3-bar-item">reciepes</a>
+    <a class=navbartext href="about.html" class="w3-button w3-bar-item">about</a>
+    <a class=navbartext href="shop.html" class="w3-button w3-bar-item">shop</a>
+      <a class=navbartext href="teaparty.html" class="w3-button w3-bar-item">teaparty</a>
+  </nav>
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <footer>
+     <ul>
+       <li><a href="#">Posted by : saadiashummus</a></li>
+       <li><a href="#">Contact info : <a href="mailto:saadiashummus@example.com">saadias@hummus.com</a></a></li>
+     </ul>
+   </footer>
+
+</body>
+<html>f
